@@ -77,3 +77,4 @@ This is a repository where I store the Python lessons I learn every day.
     - 3: Python 2 vs. Python 3
     - 4: Should You Use Python 2 or 3?
 11. OOP
+    inheritance
