@@ -78,3 +78,4 @@ This is a repository where I store the Python lessons I learn every day.
     - 4: Should You Use Python 2 or 3?
 11. OOP
     inheritance
+    polymorphism
